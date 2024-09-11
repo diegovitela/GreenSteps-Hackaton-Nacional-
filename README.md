@@ -1,6 +1,6 @@
 # GreenSteps
 
-GreenSteps es una aplicación desarrollada en Swift que te ayuda a monitorear tu impacto ambiental a través de tu consumo de agua, electricidad y gasolina. La aplicación te ofrece herramientas para calcular tu huella de CO2 y proporciona una visualización única de tu impacto ambiental en un perfil personalizado.
+GreenSteps es una aplicación desarrollada en Swift para monitorear tu impacto ambiental basado en tu consumo de agua, electricidad y gasolina. Esta aplicación te permite calcular tu huella de CO2 y visualizar tu impacto a través de un perfil personalizado que incluye un árbol virtual que cambia según tu impacto ambiental.
 
 ## Características
 
@@ -14,6 +14,11 @@ GreenSteps es una aplicación desarrollada en Swift que te ayuda a monitorear tu
 - Xcode
 - UIKit
 
+## Información Adicional
+
+Esta aplicación fue desarrollada para el Hackatón Nacional 2024.
+
 ## Contacto
 
 Para más información, puedes contactar al desarrollador a través de [vitela991@gmail.com].
+
